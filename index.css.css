@@ -1,0 +1,48 @@
+body{
+    background-image: url(background2.avif);
+    text-align: center;
+}
+
+h1{
+    color: yellow;
+    font-family: sacramento;
+    
+}
+
+.myh2{
+    color: grey;
+}
+
+.img1{
+    border-radius: 90%;
+}
+
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
+    color: white;
+}
+
+p{
+    color: white;
+    line-height: 2;
+}
+
+h3{
+    color: grey;
+}
+
+.img2{
+    margin-right: 30px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-radius: 90%;
+}
+
+.third-container{
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
